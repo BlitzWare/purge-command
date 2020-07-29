@@ -1,2 +1,2 @@
 # purge-command
-A simple purge command designed for Discord.py
+A simple purge/clear command designed for Discord.py
